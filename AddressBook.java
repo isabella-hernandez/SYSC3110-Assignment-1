@@ -15,10 +15,11 @@ public class AddressBook {
         addressBook.removeBuddy(buddy);
         System.out.println("Address Book");
     }
-    //practing adding a new method to commit some changes
+    //practicing adding a new method to commit some changes
     public void testCode(){
 
     }
+    //text
 
     public void addBuddy(BuddyInfo buddy){
 
