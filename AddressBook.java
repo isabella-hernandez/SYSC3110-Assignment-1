@@ -15,8 +15,13 @@ public class AddressBook {
         addressBook.removeBuddy(buddy);
         System.out.println("Address Book");
     }
+    //practing adding a new method to commit some changes
+    public void testCode(){
+
+    }
 
     public void addBuddy(BuddyInfo buddy){
+
         buddies.add(buddy);
     }
     public void removeBuddy(BuddyInfo buddy){
